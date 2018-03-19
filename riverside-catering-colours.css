@@ -1,0 +1,48 @@
+/* colour pallette for riverside catering */
+
+/* uses tachyons style colour naming */
+
+/* blue-grey */
+.blue-grey { color: #363A4C; }
+.bg-blue-grey { background-color: #363A4C; }
+.b--blue-grey { border-color: #363A4C; }
+.hover-blue-grey:hover,
+.hover-blue-grey:focus { color: #363A4C; }
+.hover-bg-blue-grey:hover,
+.hover-bg-blue-grey:focus { background-color: #363A4C; }
+
+/* green */
+.green { color: #95C11F; }
+.bg-green { background-color: #95C11F; }
+.b--green { border-color: #95C11F; }
+.hover-green:hover,
+.hover-green:focus { color: #95C11F; }
+.hover-bg-green:hover,
+.hover-bg-green:focus { background-color: #95C11F; }
+
+/* blue */
+.blue { color: #2D2E83; }
+.bg-blue { background-color: #2D2E83; }
+.b--blue { border-color: #2D2E83; }
+.hover-blue:hover,
+.hover-blue:focus { color: #2D2E83; }
+.hover-bg-blue:hover,
+.hover-bg-blue:focus { background-color: #2D2E83; }
+
+/* orange */
+.orange { color: #F39200; }
+.bg-orange { background-color: #F39200; }
+.b--orange { border-color: #F39200; }
+.hover-orange:hover,
+.hover-orange:focus { color: #F39200; }
+.hover-bg-orange:hover,
+.hover-bg-orange:focus { background-color: #F39200; }
+
+/* red */
+.red { color: #AA154A; }
+.bg-red { background-color: #AA154A; }
+.b--red { border-color: #AA154A; }
+.hover-red:hover,
+.hover-red:focus { color: #AA154A; }
+.hover-bg-red:hover,
+.hover-bg-red:focus { background-color: #AA154A; }
