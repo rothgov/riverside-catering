@@ -39,10 +39,10 @@
 .hover-bg-br-orange:focus { background-color: #F39200; }
 
 /* brand bg-red */
-.bg-red { color: #AA154A; }
-.bg-bg-red { background-color: #AA154A; }
-.b--bg-red { border-color: #AA154A; }
-.hover-bg-red:hover,
-.hover-bg-red:focus { color: #AA154A; }
-.hover-bg-bg-red:hover,
-.hover-bg-bg-red:focus { background-color: #AA154A; }
+.br-red { color: #AA154A; }
+.bg-br-red { background-color: #AA154A; }
+.b--br-red { border-color: #AA154A; }
+.hover-br-red:hover,
+.hover-br-red:focus { color: #AA154A; }
+.hover-bg-br-red:hover,
+.hover-bg-br-red:focus { background-color: #AA154A; }
