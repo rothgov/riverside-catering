@@ -3,24 +3,22 @@ title: Home
 layout: default
 ---
 
-riverside-catering-structure.md
-
 ### Home
 
 ### About
-- Intro
-- Our food
-- Our suppliers
-- Training
-- Meet the team
-- Working for us
-- Environmental
+- [Intro]({{ site.baseurl }}/about-intro)
+- [Our food]({{ site.baseurl }}/our-food)
+- [Our suppliers]({{ site.baseurl }}/our-suppliers)
+- [Training]({{ site.baseurl }}/training)
+- [Meet the team]({{ site.baseurl }}/team)
+- [Working for us]({{ site.baseurl }}/jobs)
+- [Environmental]({{ site.baseurl }}/environment)
 
 ### Schools
-- Specialist catering
-- Hospitality
-- Diatary requirements
-- Terms
+- [Specialist catering]({{ site.baseurl }}/catering)
+- [Hospitality]({{ site.baseurl }}/hospitality)
+- [Dietary requirements]({{ site.baseurl }}/dietary)
+- [Terms]({{ site.baseurl }}/terms)
 
 ### Parents
 - Why
