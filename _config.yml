@@ -1,0 +1,15 @@
+---
+title: Crowdon OEC - Dev
+timezone: Europe/London
+description: A development site for Crowden Outdoor Education Centre
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+### exclude the instructions / write-up in the README.md
+exclude:
+- README.md
