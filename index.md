@@ -21,16 +21,16 @@ layout: default
 - [Terms]({{ site.baseurl }}/terms)
 
 ### Parents
-- Why
-- Menu primary
-- Menu secondary
-- Special diets
-- Free school meals
+- [Why]({{ site.baseurl }}/parents-why)
+- [Menu primary]({{ site.baseurl }}/menu-primary)
+- [Menu secondary]({{ site.baseurl }}/menu-secondary)
+- [Special diets]({{ site.baseurl }}/special-diets)
+- [Free school meals]({{ site.baseurl }}/free-meals)
 
 ### Contact
-- Contact us
-- Feedback
-- Book
+- [Contact us]({{ site.baseurl }}/contact)
+- [Feedback]({{ site.baseurl }}/feedback)
+- [Book]({{ site.baseurl }}/book)
 
 ### Global components
 - Header
