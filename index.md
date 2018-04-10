@@ -37,5 +37,5 @@ layout: default
 - Navigation
 - [Banners]({{ site.baseurl }}/banners)
 - [Testimonials]({{ site.baseurl }}/testimonials)
-- Booking (CTA)
+- [Booking]({{ site.baseurl }}/booking)
 - Footer
