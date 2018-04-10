@@ -29,8 +29,8 @@ layout: default
 
 ### Contact
 - [Contact us]({{ site.baseurl }}/contact)
-- [Feedback]({{ site.baseurl }}/feedback)
-- [Book]({{ site.baseurl }}/book)
+- Feedback
+- Book
 
 ### Global components
 - Header
