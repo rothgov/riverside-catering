@@ -12,7 +12,7 @@ layout: default
 - [Training]({{ site.baseurl }}/training)
 - [Meet the team]({{ site.baseurl }}/team)
 - [Working for us]({{ site.baseurl }}/jobs)
-- [Environmental]({{ site.baseurl }}/environment)
+- [Environment]({{ site.baseurl }}/environment)
 
 ### Schools
 - [Specialist catering]({{ site.baseurl }}/catering)
