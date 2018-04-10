@@ -36,6 +36,6 @@ layout: default
 - Header
 - Navigation
 - Intros
-- Testimonials
+- [Testimonials]({{ site.baseurl }}/testimonials)
 - Booking (CTA)
 - Footer
