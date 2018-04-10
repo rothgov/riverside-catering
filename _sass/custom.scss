@@ -1,0 +1,55 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Voltaire');
+
+.voltaire {
+  font-family: 'Voltaire', sans-serif;
+}
+
+/* colour pallette for riverside catering */
+
+/* uses tachyons style colour naming */
+
+/* brand blue-grey */
+.br-blue-grey { color: #363A4C; }
+.bg-br-blue-grey { background-color: #363A4C; }
+.b--br-blue-grey { border-color: #363A4C; }
+.hover-br-blue-grey:hover,
+.hover-br-blue-grey:focus { color: #363A4C; }
+.hover-bg-br-blue-grey:hover,
+.hover-bg-br-blue-grey:focus { background-color: #363A4C; }
+
+/* brand green */
+.br-green { color: #95C11F; }
+.bg-br-green { background-color: #95C11F; }
+.b--br-green { border-color: #95C11F; }
+.hover-br-green:hover,
+.hover-br-green:focus { color: #95C11F; }
+.hover-bg-br-green:hover,
+.hover-bg-br-green:focus { background-color: #95C11F; }
+
+/* brand br-blue */
+.br-blue { color: #2D2E83; }
+.bg-br-blue { background-color: #2D2E83; }
+.b--br-blue { border-color: #2D2E83; }
+.hover-br-blue:hover,
+.hover-br-blue:focus { color: #2D2E83; }
+.hover-bg-br-blue:hover,
+.hover-bg-br-blue:focus { background-color: #2D2E83; }
+
+/* brand br-orange */
+.br-orange { color: #F39200; }
+.bg-br-orange { background-color: #F39200; }
+.b--br-orange { border-color: #F39200; }
+.hover-br-orange:hover,
+.hover-br-orange:focus { color: #F39200; }
+.hover-bg-br-orange:hover,
+.hover-bg-br-orange:focus { background-color: #F39200; }
+
+/* brand bg-red */
+.br-red { color: #AA154A; }
+.bg-br-red { background-color: #AA154A; }
+.b--br-red { border-color: #AA154A; }
+.hover-br-red:hover,
+.hover-br-red:focus { color: #AA154A; }
+.hover-bg-br-red:hover,
+.hover-bg-br-red:focus { background-color: #AA154A; }
