@@ -35,7 +35,7 @@ layout: default
 ### Global components
 - Header
 - Navigation
-- Intros
+- [Banners]({{ site.baseurl }}/banners)
 - [Testimonials]({{ site.baseurl }}/testimonials)
 - Booking (CTA)
 - Footer
