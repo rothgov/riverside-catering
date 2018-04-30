@@ -15,7 +15,6 @@ layout: default
 - [Environment]({{ site.baseurl }}/environment)
 
 ### Schools
-- [Specialist catering]({{ site.baseurl }}/catering)
 - [Hospitality]({{ site.baseurl }}/hospitality)
 - [Dietary requirements]({{ site.baseurl }}/dietary)
 - [Terms]({{ site.baseurl }}/terms)
