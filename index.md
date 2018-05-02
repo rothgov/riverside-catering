@@ -15,21 +15,19 @@ layout: default
 - [Environment]({{ site.baseurl }}/environment)
 
 ### Schools
+- [Our services]({{ site.baseurl }}/services)
 - [Hospitality]({{ site.baseurl }}/hospitality)
-- [Dietary requirements]({{ site.baseurl }}/dietary)
-- [Terms]({{ site.baseurl }}/terms)
 
 ### Parents
-- [Why]({{ site.baseurl }}/parents-why)
-- [Menu primary]({{ site.baseurl }}/menu-primary)
-- [Menu secondary]({{ site.baseurl }}/menu-secondary)
+- [Why eat a school lunch]({{ site.baseurl }}/parents-why)
+- [Menu - primary]({{ site.baseurl }}/menu-primary)
+- [Menu - secondary]({{ site.baseurl }}/menu-secondary)
 - [Special diets]({{ site.baseurl }}/special-diets)
 - [Free school meals]({{ site.baseurl }}/free-meals)
 
 ### Contact
 - [Contact us]({{ site.baseurl }}/contact)
-- Feedback
-- Book
+- [Feedback]({{ site.baseurl }}/feedback)
 
 ### Global components
 - Header
