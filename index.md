@@ -6,7 +6,7 @@ layout: default
 ### Home
 
 ### About
-- [Intro]({{ site.baseurl }}/about-intro)
+- [Intro]({{ site.baseurl }}/intro)
 - [Our food]({{ site.baseurl }}/our-food)
 - [Our suppliers]({{ site.baseurl }}/our-suppliers)
 - [Training]({{ site.baseurl }}/training)
@@ -19,7 +19,7 @@ layout: default
 - [Hospitality]({{ site.baseurl }}/hospitality)
 
 ### Parents
-- [Why eat a school lunch]({{ site.baseurl }}/parents-why)
+- [Why eat a school lunch]({{ site.baseurl }}/why)
 - [Menu - primary]({{ site.baseurl }}/menu-primary)
 - [Menu - secondary]({{ site.baseurl }}/menu-secondary)
 - [Special diets]({{ site.baseurl }}/special-diets)
