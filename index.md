@@ -17,6 +17,7 @@ layout: default
 ### Schools
 - [Our services]({{ site.baseurl }}/services)
 - [Hospitality]({{ site.baseurl }}/hospitality)
+- [Specialist catering]({{ site.baseurl }}/specialist)
 
 ### Parents
 - [Why eat a school lunch]({{ site.baseurl }}/why)
